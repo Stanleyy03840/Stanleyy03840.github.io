@@ -16,3 +16,29 @@
     <td>Link</td>
   </tr>
 </table>
+
+## Data Structures Project
+<table>
+  <tr>
+    <th>Code Snippets</th>
+    <th>Code</th>
+    <th>Runtime</th>
+  </tr>
+  <tr>
+    <td>link</td>
+    <td>link</td>
+    <td>link</td>
+  </tr>
+</table>
+
+## College Board Create Task
+<table>
+  <tr>
+    <th>Code Snippets</th>
+    <th>Runtime</th>
+  </tr>
+  <tr>
+    <td>link</td>
+    <td>link</td>
+  </tr>
+</table>
