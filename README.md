@@ -3,17 +3,17 @@
   <tr>
     <th>Unit</th>
     <th>Title</th>
-    <th>[Link](https://github.com/stanleyy03840/stanleyy03840.github.io/blob/main/51)</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>5.1</td>
     <td>Beneficial and Harmful Effects</td>
-    <td>Link</td>
+    <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/blob/main/51">Link</a></td>
   </tr>
   <tr>
     <td>5.2</td>
    <td>Digital Divide</td>
-    <td>Link</td>
+    <td><a href="https://github.com/lleosunn/lleosunn.github.io/blob/main/52">Link<a/></td>
   </tr>
 </table>
 
