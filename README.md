@@ -13,6 +13,6 @@
   <tr>
     <td>5.2</td>
    <td>Digital Divide</td>
-    <td>3Link</td>
+    <td>Link</td>
   </tr>
 </table>
