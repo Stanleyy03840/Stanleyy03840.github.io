@@ -1,0 +1,293 @@
+import time
+import os
+
+# As you can see, its not very optimal
+def frame1():
+    print("        .----. ")
+    print("       /   O O\   ")
+    print("       '    O  ' ")
+    print("       \      /  ")
+    print("		   `----'  ")
+    print("-----------------------------------------------------------------")
+
+
+def frame2():
+    print("          .----. ")
+    print("         /   O O\   ")
+    print("         '    O  ' ")
+    print("         \      /  ")
+    print("          `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame3():
+    print("            .----. ")
+    print("           /   O O\   ")
+    print("           '    O  ' ")
+    print("           \      /  ")
+    print("            `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame4():
+    print("              .----. ")
+    print("             /   O O\   ")
+    print("             '    O  ' ")
+    print("             \      /  ")
+    print("              `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame5():
+    print("                .----. ")
+    print("               /   O O\   ")
+    print("               '    O  ' ")
+    print("               \      /  ")
+    print("                `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame6():
+    print("                  .----. ")
+    print("                 /   O O\   ")
+    print("                 '    O  ' ")
+    print("                 \      /  ")
+    print("                  `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame7():
+    print("                    .----. ")
+    print("                   /   O O\   ")
+    print("                   '    O  ' ")
+    print("                   \      /  ")
+    print("                    `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame8():
+    print("                      .----. ")
+    print("                     /   O O\   ")
+    print("                     '    O  ' ")
+    print("                     \      /  ")
+    print("                      `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame9():
+    print("                        .----. ")
+    print("                       /   O O\   ")
+    print("                       '    O  ' ")
+    print("                       \      /  ")
+    print("                        `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame10():
+    print("                          .----. ")
+    print("                         /   O O\   ")
+    print("                         '    O  ' ")
+    print("                         \      /  ")
+    print("                          `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame11():
+    print("                            .----. ")
+    print("                           /   O O\   ")
+    print("                           '    O  ' ")
+    print("                           \      /  ")
+    print("                            `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame12():
+    print("                              .----. ")
+    print("                             /   O O\   ")
+    print("                             '    O  ' ")
+    print("                             \      /  ")
+    print("                              `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame13():
+    print("                                .----. ")
+    print("                               /   O O\   ")
+    print("                               '    O  ' ")
+    print("                               \      /  ")
+    print("                                `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame14():
+    print("                                  .----. ")
+    print("                                 /   O O\   ")
+    print("                                 '    O  ' ")
+    print("                                 \      /  ")
+    print("                                  `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame15():
+    print("                                    .----. ")
+    print("                                   /   O O\   ")
+    print("                                   '    O  ' ")
+    print("                                   \      /  ")
+    print("                                    `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame16():
+    print("                                      .----. ")
+    print("                                     /   O O\   ")
+    print("                                     '    O  ' ")
+    print("                                     \      /  ")
+    print("                                      `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame17():
+    print("                                        .----. ")
+    print("                                       /   O O\   ")
+    print("                                       '    O  ' ")
+    print("                                       \      /  ")
+    print("                                        `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame17():
+    print("                                          .----. ")
+    print("                                         /   O O\   ")
+    print("                                         '    O  ' ")
+    print("                                         \      /  ")
+    print("                                          `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame18():
+    print("                                            .----. ")
+    print("                                           /   O O\   ")
+    print("                                           '    O  ' ")
+    print("                                           \      /  ")
+    print("                                            `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame19():
+    print("                                              .----. ")
+    print("                                             /   O O\   ")
+    print("                                             '    O  ' ")
+    print("                                             \      /  ")
+    print("                                              `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame20():
+    print("                                                .----. ")
+    print("                                               /   O O\   ")
+    print("                                               '    O  ' ")
+    print("                                               \      /  ")
+    print("                                                `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame21():
+    print("                                                  .----. ")
+    print("                                                 /   O O\   ")
+    print("                                                 '    O  ' ")
+    print("                                                 \      /  ")
+    print("                                                  `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame22():
+    print("                                                    .----. ")
+    print("                                                   /   O O\   ")
+    print("                                                   '    O  ' ")
+    print("                                                   \      /  ")
+    print("                                                    `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame23():
+    print("                                                      .----. ")
+    print("                                                     /   O O\   ")
+    print("                                                     '    O  ' ")
+    print("                                                     \      /  ")
+    print("                                                      `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame24():
+    print("                                                        .----. ")
+    print("                                                       /   O O\   ")
+    print("                                                       '    O  ' ")
+    print("                                                       \      /  ")
+    print("                                                        `----'  ")
+    print("-----------------------------------------------------------------")
+
+def frame25():
+    print("                                                          .----. ")
+    print("                                                         /   O O\   ")
+    print("                                                         '    O  ' ")
+    print("                                                         \      /  ")
+    print("                                                          `----'  ")
+    print("-----------------------------------------------------------------")
+
+os.system("clear")
+time.sleep(.1)
+frame1()
+time.sleep(.5)
+os.system("clear")
+frame2()
+time.sleep(.5)
+os.system("clear")
+frame3()
+time.sleep(.5)
+os.system("clear")
+frame4()
+time.sleep(.5)
+os.system("clear")
+frame5()
+time.sleep(.5)
+os.system("clear")
+frame6()
+time.sleep(.5)
+os.system("clear")
+frame7()
+time.sleep(.5)
+os.system("clear")
+frame8()
+time.sleep(.5)
+os.system("clear")
+frame9()
+time.sleep(.5)
+os.system("clear")
+frame10()
+time.sleep(.5)
+os.system("clear")
+frame11()
+time.sleep(.5)
+os.system("clear")
+frame12()
+time.sleep(.5)
+os.system("clear")
+frame13()
+time.sleep(.5)
+os.system("clear")
+frame14()
+time.sleep(.5)
+os.system("clear")
+frame15()
+time.sleep(.5)
+os.system("clear")
+frame16()
+time.sleep(.5)
+os.system("clear")
+frame17()
+time.sleep(.5)
+os.system("clear")
+frame18()
+time.sleep(.5)
+os.system("clear")
+frame19()
+time.sleep(.5)
+os.system("clear")
+frame20()
+time.sleep(.5)
+os.system("clear")
+frame21()
+time.sleep(.5)
+os.system("clear")
+frame22()
+time.sleep(.5)
+os.system("clear")
+frame23()
+time.sleep(.5)
+os.system("clear")
+frame24()
+time.sleep(.5)
+os.system("clear")
+frame25()
+time.sleep(.5)
+os.system("clear")
+print("done")
+time.sleep(.5)
+os.system("clear")
