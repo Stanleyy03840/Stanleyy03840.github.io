@@ -1,20 +1,20 @@
 {% include navigation.html %}
 
-## Test Prep study
+## Time Box
 <table>
   <tr>
-    <th>Unit</th>
-    <th>Title</th>
-    <th>Link</th>
+    <th>Week</th>
+    <th>Individual</th>
+    <th>Team</th>
   </tr>
   <tr>
-    <td>5.1</td>
-    <td>Beneficial and Harmful Effects</td>
-    <td><a href="https://Stanleyy03840.github.io/testprep/51">Link</a></td>
+    <td>Week 0: Plans, Team, Jobs</td>
+    <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/1">Link</a></td>
+    <td><a href="https://github.com/cwang999/n22p5-coders/issues/12">Link</a></td>
   </tr>
   <tr>
-    <td>5.2</td>
-   <td>Digital Divide</td>
-    <td><a href="https://Stanleyy03840.github.io/testprep/52">Link</a></td>
+    <td>Week 1: Lists and Loops</td>
+  <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/2">Link</a></td>
+    <td><a href="https://github.com/cwang999/n22p5-coders/issues/14">Link</a></td>
   </tr>
 </table>
