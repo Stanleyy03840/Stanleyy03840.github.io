@@ -1,21 +1,21 @@
 InfoDb = []
 # List with dictionary records placed in a list
 InfoDb.append({
-    "FirstName": "Leo",
-    "LastName": "Sun",
-    "Favorite Colors":["Red","Orange","Yellow"]
-})
-
-InfoDb.append({
     "FirstName": "Stanley",
     "LastName": "Yan",
-    "Favorite Colors":["Blue", "Green", "Purple"]
+    "Track Times":["1600m: 4:49", "800m: 2:14", "3200m: 10:30"]
 })
 
 InfoDb.append({
-    "FirstName": "Ur",
-    "LastName": "Mom",
-    "Favorite Colors":["Black", "Grey", "White"]
+    "FirstName": "Joshua",
+    "LastName": "Spurgiesz",
+    "Favorite Colors":["1600m: 4:47", "800m: 2:05", "3200m: 10:40"]
+})
+
+InfoDb.append({
+    "FirstName": "Evan",
+    "LastName": "Appari",
+    "Favorite Colors":["1600m: 5:09", "800m: 2:20", "3200m: 11:00"]
 })
 
 def for_loop(): #iterates on length of the list
