@@ -6,7 +6,6 @@ from week1.fibonacci import printFibo
 from week1.lists import InfoDb
 from week2.factorial import printFact
 from week1.loops import for_loop,while_loop,recursive_loop
-from week2.gcd import gcdtest
 from week2.palindrome import paltest
 from week3.factor import normal_factor
 
