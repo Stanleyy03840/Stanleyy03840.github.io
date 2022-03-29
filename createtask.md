@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 ## CB Create Task
 <table>
   <tr>
