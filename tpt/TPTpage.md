@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # Test Prep study
 <table>
   <tr>
