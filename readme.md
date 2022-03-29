@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 ## Time Box
 <table>
   <tr>
