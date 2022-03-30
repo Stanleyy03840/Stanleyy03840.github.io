@@ -15,4 +15,8 @@
   <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/2">Link</a></td>
     <td><a href="https://github.com/cwang999/n22p5-coders/issues/14">Link</a></td>
   </tr>
+     <td>Week 2: Classy Functions</td>
+  <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/3">Link</a></td>
+    <td><a href="https://github.com/cwang999/n22p5-coders/issues/16">Link</a></td>
+  </tr>
 </table>
