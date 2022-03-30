@@ -8,9 +8,9 @@ class factorial(object):
             result = 1
             return result
         else:
-            for x in range(1,n+1):
-                result*=x
-            return result
+          for x in range(1,n+1):
+            result*=x
+          return result
 
 def printFact():
     fac1 = factorial(int(input("What number factorial?")))
@@ -21,7 +21,7 @@ def printFact():
     print("factorial of 1 is:", fac2.factorial())
     print("factorial of 8 is:", fac3.factorial())
     print("factorial of 3 is:", fac4.factorial())
-
+    
 
 if __name__ == "__main__":
     printFact()
