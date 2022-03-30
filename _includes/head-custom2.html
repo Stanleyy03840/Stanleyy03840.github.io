@@ -39,5 +39,44 @@ th{
     color: rgb(255,255,255);
 }
     
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+ul li {
+    float: left;
+    width: 150px;
+    height: 25px;
+    background-color: lightblue;
+    opacity: 1;
+    line-height: 35px;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 0px;
+    margin-button: 50px;
+    z-index: 99; important!
+}
+ul li a {
+    text-decoration: none;
+    background-color: lightblue;
+    color: mediumblue;
+    display: block;
+     z-index: 99; important!
+}
+ul li a:hover {
+    color: white;
+    background: lightseagreen;
+    z-index: 99; important!
+}
+ul li ul li {
+    display: none;
+}
+ul li:hover ul li {
+    display: block;
+}
 
+a {
+    margin-top: -4px;
+}
 </style>
