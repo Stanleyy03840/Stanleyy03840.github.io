@@ -27,12 +27,12 @@
   </tr>
    <tr>
     <td>5.5</td>
-    <td>Crowdsourcing</td>
+    <td>Legal and Ethical Concerns</td>
     <td><a href="55">LINK</a></td>
   </tr>
    <tr>
     <td>5.6</td>
-    <td>Crowdsourcing</td>
+    <td>Safe Computing</td>
     <td><a href="56">LINK</a></td>
   </tr>
 </table>
