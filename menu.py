@@ -9,6 +9,7 @@ from week1.loops import for_loop,while_loop,recursive_loop
 from week2.gcd import gcdtest
 from week2.palindrome import paltest
 from week2.prime import findprimes
+from week2.advy import beach, mountain, lake
 
 def buildMenu(menu):
     for key,value in menu.items():
@@ -53,6 +54,24 @@ mathMenu = {
         "exec":quit,
         "type":"func"
     }
+}
+
+adventureMenu = {
+    1: {
+        "display":"Beach",
+        "exec": beach,
+        "type":"func"
+    },
+    2: {
+        "display":"Mountains",
+        "exec": mountain,
+        "type":"func"
+    },
+    3: {
+        "display":"Lake",
+        "exec": lake,
+        "type":"func"
+    },
 }
 
 hack2Menu = {
@@ -131,6 +150,11 @@ mainMenu = {
         "type":"submenu"
     },
     4: {
+        "display":"Adventure Menu(Beach, Mountains, Lake)",
+        "exec": adventureMenu,
+        "type":"submenu"
+    },
+    5: {
         "display": "Quit",
         "exec":quit,
         "type":"func"
