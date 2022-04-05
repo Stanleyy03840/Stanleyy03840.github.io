@@ -4,7 +4,6 @@
     <th>Week</th>
     <th>Individual</th>
     <th>Team</th>
-  </tr>
   <tr>
     <td>Week 0: Plans, Team, Jobs</td>
     <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/1">Link</a></td>
