@@ -1,4 +1,4 @@
-{% include navigation.html %}
+
 
 # Create Task Idea:
 ## Requirements:
