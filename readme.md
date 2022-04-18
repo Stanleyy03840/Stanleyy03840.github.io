@@ -18,4 +18,15 @@
   <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/3">Link</a></td>
     <td><a href="https://github.com/cwang999/n22p5-coders/issues/16">Link</a></td>
   </tr>
+    <tr>
+    <td>Week 3: Algorithmic Final</td>
+    <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/5">Link</a></td>
+    <td><a href="">Link</a></td>
+  </tr>
+    <tr>
+    <td>Week 4: Accounts and Logins</td>
+    <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/6">Link</a></td>
+    <td><a href="">Link</a></td>
+  </tr>
+  
 </table>
