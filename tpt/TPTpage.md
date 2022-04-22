@@ -35,4 +35,14 @@
     <td>Safe Computing</td>
     <td><a href="56">LINK</a></td>
   </tr>
+  <tr>
+    <td>Quiz 1</td>
+    <td>Score and Reflection</td>
+    <td><a href="Quiz1">LINK</a></td>
+  </tr>
+  <tr>
+    <td>Quiz 2</td>
+    <td>Score and Reflections</td>
+    <td><a href="Quiz2">LINK</a></td>
+  </tr>
 </table>
