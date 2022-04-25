@@ -9,4 +9,4 @@
 
 * Q37: Option D is correct because it first sets x equal to max, but then it moves on to the next if statement and changes y equal to max, which is incorrect. 
 
-* Q49: Optio nD is correct because saving copies of most visited websites would not affect the lesser visited websites. These websites would still be accessible by users. 
+* Q49: Option D is correct because saving copies of most visited websites would not affect the lesser visited websites. These websites would still be accessible by users. 
