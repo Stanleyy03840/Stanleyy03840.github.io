@@ -28,5 +28,10 @@
     <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/6">Link</a></td>
     <td><a href="">Link</a></td>
   </tr>
+  <tr>
+    <td>Week 5: Proctored MCQ Week1 : Quiz1, Quiz2 Scores</td>
+    <td><a href="https://github.com/Stanleyy03840/Stanleyy03840.github.io/issues/9">Link</a></td>
+    <td><a href="">Link</a></td>
+  </tr>
   
 </table>
