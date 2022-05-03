@@ -46,6 +46,11 @@
     <td><a href="Quiz2">LINK</a></td>
   </tr>
   <tr>
+    <td>Quiz 3</td>
+    <td>Score and Reflections</td>
+    <td><a href="Quiz3">LINK</a></td>
+  </tr>
+  <tr>
     <td>Study Plan</td>
     <td>Study Plan</td>
     <td><a href="studyplan">LINK</a></td>
